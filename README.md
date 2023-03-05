@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pawanraj77
+- 👋 Hi, I’m Pawan Raj
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning in SRM Institute of Science & Technology
+- 🌱 I’m currently studying in SRM Institute of Science & Technology
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
