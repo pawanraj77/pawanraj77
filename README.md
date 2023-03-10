@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Pawan Raj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently studying in SRM Institute of Science & Technology
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- ### Hi there 👋
+* 👂 I'm Pawan Raj, student of 3rd year Computer Science Engineering
+* 👩 Pronouns: ...
+* 🔭 I’m currently studying in SRM Institute of Science & Technology Ramapuram
+* 🌱 I’m interested in Data Science and 
+* 🤝 I’m looking to collaborate on 
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love 
+* ⚡ Fun fact: ...
 
 <!---
 pawanraj77/pawanraj77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
