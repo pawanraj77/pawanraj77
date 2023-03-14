@@ -1,14 +1,12 @@
 - ### Hi there 👋
-* 👂 I'm Pawan Raj, student of 3rd year Computer Science Engineering
-* 👩 Pronouns: ...
-* 🔭 I’m currently studying in SRM Institute of Science & Technology Ramapuram
-* 🌱 I’m interested in Data Science and 
-* 🤝 I’m looking to collaborate on 
-* 🤔 I’m looking for help with ...
+* 👂 I'm Pawan Raj, student of 3rd year Computer Science Engineering.
+* 🔭 I’m currently studying in SRM Institute of Science & Technology Ramapuram.
+* 🌱 I’m interested in Data Science and Machine Learing.
+* 🤝 I’m looking to collaborate on machine learning projects.
 * 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love 
-* ⚡ Fun fact: ...
+* 📫 How to reach me: Chennai, India
+* ❤️ I love to do coding.
+* ⚡ Fun fact: I'm a foodie.
 
 <!---
 pawanraj77/pawanraj77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
