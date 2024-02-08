@@ -1,5 +1,5 @@
 - ### Hi there 👋
-* 👂 I'm Pawan Raj, student of 3rd year Computer Science Engineering.
+* 👂 I'm Pawan Raj, student of 4th year Computer Science Engineering.
 * 🔭 I’m currently studying in SRM Institute of Science & Technology Ramapuram.
 * 🌱 I’m interested in Data Science and Machine Learing.
 * 🤝 I’m looking to collaborate on machine learning projects.
